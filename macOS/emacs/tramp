@@ -1,0 +1,46 @@
+;; -*- emacs-lisp -*- <17/04/06 21:23:37 /Users/noah/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["ssh" "pavuk.10" "stdlinux.cse.ohio-state.edu" nil nil]
+  ("uname" "Linux 2.6.32-642.11.1.el6.x86_64")
+  ("locale" "LC_ALL=en_US.utf8")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin" "/usr/contrib/bin"))
+  ("remote-shell" "/bin/sh")
+  ("file-exists" "test -e")
+  ("~" "/home/3/pavuk.10")
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("id" "/usr/bin/id")
+  ("gid-string" "class")
+  ("gid-integer" 404)
+  ("uid-integer" 25994)
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t))
+ (["ssh" nil "school" nil nil]
+  ("uname" "Linux 2.6.32-642.15.1.el6.x86_64")
+  ("locale" "LC_ALL=en_US.utf8")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin" "/usr/contrib/bin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/home/3/pavuk.10")
+  ("file-exists" "test -e")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("stat" "\\stat")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 404)
+  ("readlink" "\\readlink")
+  ("gid-string" "class")
+  ("uid-integer" 25994))
+ (["scp" nil "ssh" nil nil]
+  nil))
