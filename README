@@ -1,0 +1,45 @@
+      _           _      __   _   _              
+   __| |   ___   | |_   / _| (_) | |   ___   ___ 
+  / _` |  / _ \  | __| | |_  | | | |  / _ \ / __|
+ | (_| | | (_) | | |_  |  _| | | | | |  __/ \__ \
+  \__,_|  \___/   \__| |_|   |_| |_|  \___| |___/   ╭----------╮
+                                                    | dotfiles |
+                              !         !           | r cool   |
+                             ! !       ! !         /╰----------╯  
+                            ! . !     ! . !       /   
+                               ^^^^^^^^^ ^       /     
+                             ^             ^    /      
+                           ^  (0)       (0)  ^       
+                          ^        ""         ^       
+                         ^   ***************    ^     
+                       ^   *                 *   ^    
+                      ^   *   /\   /\   /\    *    ^   
+                     ^   *                     *    ^
+                    ^   *   /\   /\   /\   /\   *    ^
+                   ^   *                         *    ^
+                   ^  *                           *   ^
+                   ^  *                           *   ^
+                    ^ *                           *  ^  
+                     ^*                           * ^ 
+                      ^ *                        * ^
+                      ^  *                      *  ^
+                        ^  *       ) (         * ^
+                            ^^^^^^^^ ^^^^^^^^^
+========================================================================
+
+Here's some of my dotfiles. I'll probably fork alot of other (superior)
+programmer's configs and such. I'll be sure credit any sources in this
+readme.
+
+What are dotfiles? These are my configurations for different programs
+to run how I like. I've seperated out the different OS's in different
+folders and I'll try to provide a makefile. For now most of my stuff
+will be under macOS folder - because I use macOS.
+
+Some stuff will include:
+     - emacs
+     - iterm2 config
+     - bashrc
+     - zshrc
+     - whatever else I find usefull
+
